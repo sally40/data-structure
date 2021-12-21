@@ -1,1 +1,1 @@
-# data-structure
+# data-structure (자료구조를 공부하면서 구현,실습해보기 위해 작성해본 코드들 입니다.)
